@@ -1,6 +1,5 @@
 # Marketing-and-retail-analytics
 
-
-Olist dataset has been thoroughly cleaned and analyzed for insights. 
-<n>Performed Market basket analysis.
-Presented the analysis and insights.
+olist retail dataset has been cleaned and analysed for better insights.
+<br>
+Recommendations have been shared with the audience.
